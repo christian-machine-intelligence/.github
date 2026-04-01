@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="profile/tommy.jpg" alt="Saint Thomas Aquinas" width="600">
+</p>
+
 # The Institute for Christian Machine Intelligence
 
 The rapid development of artificial intelligence — and the prospect of artificial general intelligence — represents one of the most consequential technological transitions in human history. A vast and growing technical literature addresses the problem of ensuring that these systems behave safely and in accordance with human values. Governments have established new regulatory bodies. Corporations have assembled teams of researchers dedicated to the problem.

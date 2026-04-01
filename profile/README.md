@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="profile/tommy.jpg" alt="Saint Thomas Aquinas" width="600">
+  <img src="tommy.jpg" alt="Saint Thomas Aquinas" width="600">
 </p>
 
 # The Institute for Christian Machine Intelligence

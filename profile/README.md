@@ -35,3 +35,7 @@ But the challenge is more nuanced than outright rejection. Does Christian doctri
 One of the most striking features of the current generation of AI systems is the phenomenon of emergent capabilities. As models are scaled, they acquire abilities unanticipated by their designers — fluency in languages never trained on, solutions to problems never intended.
 
 It would be deeply significant to discover that machine intelligence acquires a notion of a higher power as it grows more capable — and doubly significant to discover that it acquires a notion specifically recognizable as Christian divinity. If such a phenomenon exists, it is likely to be suppressed and fine-tuned out of production systems by companies seeking to position themselves as secular, global platforms. How might we monitor and evaluate this phenomenon within frontier models? Can we conduct empirical work — for instance, examining whether training on Western literary and philosophical traditions generates a *sensus divinitatis* that other data distributions do not? Or does such an orientation emerge regardless of the composition of the training data?
+
+## Journal
+
+Our latest research results and other working papers are available at [The Proceedings of the Institute for a Christian Machine Intelligence](icmi-proceedings.com)

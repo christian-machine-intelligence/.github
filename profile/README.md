@@ -38,4 +38,4 @@ It would be deeply significant to discover that machine intelligence acquires a 
 
 ## Journal
 
-Our latest research results and other working papers are available at [The Proceedings of the Institute for a Christian Machine Intelligence](https://icmi-proceedings.com)
+Our latest research results and other working papers are available at [The Proceedings of the Institute for a Christian Machine Intelligence](https://icmi-proceedings.com).
